@@ -1,2 +1,2 @@
-text = 'Cool Upcoming Bollywood Movies' 
-print(text.title())
+str = 'Cool Upcoming Bollywood Movies' 
+print str.title()
